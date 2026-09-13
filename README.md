@@ -24,4 +24,4 @@ This repository contains all the C programs, lab practicals, and assignments cov
 ### 👨‍💻 Author
 - **Name:** [Suman kumar]
 - **College:** [Haldia Institute of Technology]
-- **GitHub:** [@aapka-username](https://github.com/aapka-username)
+- **GitHub:** [@suman-kumar-cse](https://github.com/suman-kumar-cse/suman-demo.git)
